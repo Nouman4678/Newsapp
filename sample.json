@@ -1,0 +1,126 @@
+{
+  "status": "ok",
+  "totalResults": 12,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "7 Michigan State football players charged in tunnel melee",
+      "description": "Charges have been filed against seven Michigan State football players stemming from a melee in Michigan Stadium's tunnel last month.",
+      "url": "https://www.cbsnews.com/news/michigan-state-football-players-charged-tunnel-melee-university-of-michigan/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/02/9290a98c-b68f-4363-a9b6-b7ea74ddb08d/thumbnail/1200x630/12c0f22d6077a9e5ef5b7efa6ae439c1/ap22303139788440.jpg",
+      "publishedAt": "2022-11-24T01:26:13+00:00",
+      "content": "Seven Michigan State football players have been charged in the postgame melee in Michigan Stadium's tunnel last month, according to a statement Wednesday from the Washtenaw County Prosecutor's Office… [+3983 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Hafsa Adil",
+      "title": "Japan fans win praise for stadium cleaning at World Cup 2022",
+      "description": "Japanese football fans are earning respect for their tradition of staying back to help clean up after the games.",
+      "url": "http://www.aljazeera.com/sports/2022/11/24/japanese-fans-win-praise-for-stadium-cleaning-at-world-cup-2022",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/saysuka.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-11-24T01:01:38Z",
+      "content": "Japans stunning victory over Germany left their football fans in a state of joyous disbelief on Wednesday.\r\nNow, supporters of the Samurai Blue are earning praise in Qatar for an off-pitch tradition … [+3857 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "BY MICHAEL TARM and LARRY LAGE Associated Press",
+      "title": "Seven Michigan St football players charged in tunnel melee",
+      "description": "Charges have been filed against seven Michigan State football players stemming from a melee in Michigan Stadium’s tunnel last month",
+      "url": "https://abcnews.go.com/Sports/wireStory/michigan-st-football-players-charged-tunnel-melee-93868697",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2022-11-23T21:23:15Z",
+      "content": "ANN ARBOR, Mich. -- Seven Michigan State football players have been charged in the postgame melee in Michigan Stadium's tunnel last month, according to a statement Wednesday from the Washtenaw County… [+4169 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Japan humbling Germany shows 'beauty of football'",
+      "description": "Japan boss Hajime Moriyasu says beating Germany in the World Cup is a \"historic moment\" showing the \"beauty of football\".",
+      "url": "http://www.bbc.co.uk/sport/football/63732663",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14AB9/production/_127756648_japan-fans.jpg",
+      "publishedAt": "2022-11-23T20:22:25.439674Z",
+      "content": "<table><tr><th>Fifa World Cup</th></tr>\r\n<tr><td>Host nation: Qatar Dates: 20 November-18 December Coverage: Live on BBC TV, BBC iPlayer, BBC Radio 5 Live, BBC Radio Wales, BBC Radio Cymru, BBC Sound… [+5826 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Tom VanHaarenESPN Staff Writer ",
+      "title": "Seven Michigan St. football players charged in tunnel melee",
+      "description": "Seven Michigan State football players have been charged in the postgame melee in Michigan Stadium's tunnel last month, according to a statement Wednesday from the Washtenaw County Prosecutor's Office.",
+      "url": "http://espn.go.com/college-football/story/_/id/35093005/seven-michigan-st-football-players-charged-tunnel-melee",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0504%2Fr80061_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-11-23T19:31:00Z",
+      "content": "Seven Michigan State football players are being charged with crimes stemming from the assault on two Wolverines players in Michigan Stadium's tunnel after the two teams played on Oct. 29, the Washten… [+1972 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Michigan-Michigan State tunnel fight: Charges filed against 7 Spartans, no Wolverines",
+      "description": "Charges have been filed against seven Michigan State football players for their involvement in a melee in the tunnel following Michigan's victory.",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2022/11/23/michigan-michigan-state-tunnel-fight-charges-filed-7-spartans/10764248002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/30/PDTF/d07dfba0-c8ae-46ed-a235-445b7d40eae8-MSUMICH_102922_kd_0017251.jpg?auto=webp&crop=2399,1350,x0,y229&format=pjpg&width=1200",
+      "publishedAt": "2022-11-23T18:56:13+00:00",
+      "content": "Charges have been filed against seven Michigan State football players for their involvement in a melee in the Lloyd Carr tunnel following Michigan's 29-7 victory over MSU in Ann Arbor.\r\nVideo showed … [+2717 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "AFP",
+      "title": "Ronaldo banned for two matches and fined over Everton fan clash",
+      "description": "Cristiano Ronaldo has been banned for two matches and fined £50,000 ($60,000, 58,000 euros) for hitting a mobile phone out of a teenage fan's hand at Everton, the Football Association said Wednesday.",
+      "url": "https://www.news24.com/sport/soccer/englishpremiership/ronaldo-banned-for-two-matches-and-fined-over-everton-fan-clash-20221123",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/327/7a5f4ba858db45518890e4a4c82fb1cb.jpg",
+      "publishedAt": "2022-11-23T18:13:20+00:00",
+      "content": "Ronaldo requested a personal hearing in a bid to avoid a suspension. During the hearing, held via Microsoft Teams on 8 November, Ronaldo said he had \"legitimate concern... for his own physical safety… [+321 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Adam Rittenberg",
+      "title": "College football coaching buzz - Current searches and jobs that could open",
+      "description": "After a season of coaching change that started earlier than ever before, schools will now begin to narrow their searches.",
+      "url": "http://espn.go.com/college-football/insider/story/_/id/35077431/college-football-coaching-buzz-current-searches-jobs-open",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0927%2Fr1067822_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-11-23T14:00:00Z",
+      "content": "Hiring season is here.\r\nFor more than two months, the college coaching carousel has included firings, impacting four of the five power conferences (only the Big 12 has been spared). But the time has … [+12340 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Morgan Moriarty",
+      "title": "College Football Picks: Week 13 Predictions for Every Game",
+      "description": "College football's rivalry week is finally here, and this year, there are a lot of matchups that have playoff implications. No. 3 Michigan will go on the road...",
+      "url": "https://bleacherreport.com/articles/10056524-college-football-picks-week-13-predictions-for-every-game",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/x_36,y_8,w_1759,h_1171,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1669151010/awsqalmajk4pxijt9v8f.jpg",
+      "publishedAt": "2022-11-23T12:00:00Z",
+      "content": "Kevin C. Cox/Getty Images\r\nNo. 10 Oregon at Oregon State, 3:30 p.m. ET\r\nAt 8-3, Oregon State is having its best season since 2012, and the Beavers have won five out of their last six games. Meanwhile… [+5458 chars]"
+    },
+    {
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Kathy Sheridan",
+      "title": "Kathy Sheridan: The notion that football transcends politics is well and truly dead",
+      "description": "When a front row guest of honour at the World Cup opening is Saudi’s Mohammed bin Salman – what is it but purest geopolitics?",
+      "url": "https://www.irishtimes.com/opinion/2022/11/23/kathy-sheridan-the-notion-that-football-transcends-politics-is-well-and-truly-dead/",
+      "urlToImage": "https://www.irishtimes.com/resizer/q2mCLWDaQ2ADvzXOjqqwDxQvZ6o=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/GUGN762Y6335UYUAQU6B6KAJKM.jpg",
+      "publishedAt": "2022-11-23T05:00:05Z",
+      "content": "It gets harder to separate Gianni Infantino from the character of King Louis in the 1981 Mel Brooks film The History of the World: Part Iwho looks at the camera after some disgusting deed and chirps:… [+5354 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "David Kenyon",
+      "title": "CFP Rankings 2022: Will the Committee Have a Clemson-Sized Problem?",
+      "description": "Late-season upsets have trimmed the list of College Football Playoff contenders to seven cn.",
+      "url": "https://bleacherreport.com/articles/10056530-cfp-rankings-2022-will-the-committee-have-a-clemson-sized-problem",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/x_4,y_99,w_1791,h_1192,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1669145467/rdoo6zpuhisx66ahx5va.jpg",
+      "publishedAt": "2022-11-23T00:19:52Z",
+      "content": "Grant Halverson/Getty Images\r\nLate-season upsets have trimmed the list of College Football Playoff contenders to seven candidates.\r\nGeorgia, Ohio State, Michigan and TCU hold undefeated records and r… [+3993 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
